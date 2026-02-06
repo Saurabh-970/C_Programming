@@ -16,7 +16,7 @@ typedef unsigned int UINT;
 //                  of position from user.Toggle all bits from that range.
 //  Input         : Integer, Start position, End position
 //  Output        : Integer
-//  Author        : Rahul Balasaheb Ugale
+//  Author        : Saurabh Ravindra Bhonsle
 //  Date          : 05/02/2026
 //
 ////////////////////////////////////////////////////////////////////////////////
@@ -76,3 +76,4 @@ int main()
 //  Output  : Number after toggle : 7297
 //
 ////////////////////////////////////////////////////////////////////////////////
+
